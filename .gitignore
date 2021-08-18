@@ -1,0 +1,4 @@
+.idea
+src/scss/*.map
+src/scss/*.css
+node_modules
